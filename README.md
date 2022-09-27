@@ -1,4 +1,4 @@
-# DevCup2022-Fitness
+
 # Team 26 Pico Zen 🌟🌟
 # DevCup Hackthon 2022🌱
 
